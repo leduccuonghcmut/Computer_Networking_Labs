@@ -8,6 +8,19 @@ This repository contains lab exercises for the **Computer Networks** course, foc
   - **1a:** Introduction to Wireshark
   - **1b:** Create a Simple Network Using Packet Tracer
   - **1c:** Using Packet Tracer to Build a Network
+- **Lab 2:** 
+  - **2a:** HTTP
+  - **2b:** DNS
+- **Lab 3:** 
+  - **3a:** TCP
+  - **2b:** UDP
+- **Lab 4:** 
+  - **4a:** IP
+  - **4b:** DHCP 
+  - **4c:** NAT
+- **Lab 5:** ICMP
+- **Lab 6:** Ethernet and ARP
+- **Lab 7:** 802.11 WiFi
 
 
 ## 🛠 Tools & Technologies
