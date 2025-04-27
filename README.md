@@ -21,7 +21,7 @@ This repository contains lab exercises for the **Computer Networks** course, foc
 - **Lab 5:** ICMP
 - **Lab 6:** Ethernet and ARP
 - **Lab 7:** 802.11 WiFi
-
+- **Lab 8:** SSL
 
 ## 🛠 Tools & Technologies
 
